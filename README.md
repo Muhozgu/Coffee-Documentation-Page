@@ -1,1 +1,1 @@
-# Coffee-Documentation-Page
+# js_doc_page
